@@ -1,7 +1,6 @@
 name: ligo
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
   - numpy=1.26
@@ -10,6 +9,5 @@ dependencies:
   - h5py=3.10
   - jupyterlab=4.0
   - ipykernel=6.29
-  - pip
   - decorator=5.1.*
-  - pip:
+  - pip
