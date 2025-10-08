@@ -10,3 +10,17 @@ dist/
 *.egg-info/
 .binder/
 **/conda-meta/
+
+outputs/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.txt
+*.csv
+*.tsv
+*.npy
+*.npz
+*.wav
