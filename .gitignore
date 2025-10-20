@@ -18,7 +18,6 @@ figures/
 *.jpeg
 *.svg
 *.gif
-*.txt
 *.csv
 *.tsv
 *.npy
